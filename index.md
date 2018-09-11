@@ -36,6 +36,8 @@ You can find course Assignments and Materials here.
 
 ## Links
 
+- Slides from Instructor's homepage [link](http://homepage.fudan.edu.cn/chengjin/courses/)
+
 - CMU ICS course [link](http://www.cs.cmu.edu/~213/)
 - Website of [CSAPP](http://www.csapp.cs.cmu.edu)
 

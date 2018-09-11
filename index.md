@@ -12,7 +12,7 @@ You can find course Assignments and Materials here.
 
 ## News
 
-- Install Linux on VMware [pdf](https://ics-fudan.github.io/virtual-machine.pdf)
+- Install Linux on VMware [link](https://ics-fudan.github.io/week1/virtual-machine.html) [pdf](https://ics-fudan.github.io/week1/virtual-machine.pdf)
 
 
 
@@ -28,7 +28,7 @@ You can find course Assignments and Materials here.
 
 ### Week 1
 
-- Install Linux on VMware [pdf](https://ics-fudan.github.io/virtual-machine.pdf)
+- Install Linux on VMware [link](https://ics-fudan.github.io/week1/virtual-machine.html) [pdf](https://ics-fudan.github.io/week1/virtual-machine.pdf)
 
 
 

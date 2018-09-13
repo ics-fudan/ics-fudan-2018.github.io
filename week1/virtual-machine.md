@@ -22,5 +22,9 @@
 
 下载完成后，请大家自行百度，进行虚拟机的安装。如果遇到问题，请及时联系助教。
 
+在安装过程中，一些同学遇到了不少问题，这里给出两个比较靠谱的链接：[Windows](<https://blog.csdn.net/stpeace/article/details/78598333>), [Mac](https://blog.csdn.net/jackjia2015/article/details/50757430)
+
+---
+
 熟悉 Linux 的同学请根据自己的需求选择合适的方式。
 

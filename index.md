@@ -34,6 +34,7 @@ Lab **1** released.
 ### Week 2: GCC and Makefile
 
 - A brief Introduction to GCC and Makefile [link](./week2/gcc_and_makefile.html) [pdf](./week2/gcc_and_makefile.pdf) 
+- 一个中文版的 Linux 基本命令介绍 [link](https://objectkuan.gitbooks.io/ucore-docs/lab0/lab0_2_2_3_install.html)   来自大三操作系统课程材料
 
 ### Week 3: GDB and Git
 
@@ -45,9 +46,9 @@ Lab **1** released.
 ## Links
 
 - Slides from Instructor's homepage [link](http://homepage.fudan.edu.cn/chengjin/courses/)
-
 - CMU ICS course [link](http://www.cs.cmu.edu/~213/)
 - Website of [CSAPP](http://www.csapp.cs.cmu.edu)
+- 一本不太正经（通俗易懂）的 Linux 热门书 [《鸟哥的Linux私房菜》](http://cn.linux.vbird.org) ；重点是，这本书是中文版的。但是在使用这本书是基于 Centos 进行介绍的，因此在阅读之前你需要略知不同 Linux 发行版之间的异同。当然了，作为 Linux ，大部分还是共性。
 
 ---
 

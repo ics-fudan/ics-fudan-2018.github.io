@@ -6,7 +6,7 @@
 
 You can find course Assignments and Materials here.
 
-We highly recommend you to read this materials online, because we will make some improvements after one material being released. [This website will keep running till the end of github😂]
+We highly recommend you to read these materials online, because we will make some improvements after some material being released. [This website will keep running till the end of github😂]
 
 ---
 

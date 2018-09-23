@@ -113,7 +113,7 @@ Suppose you just edited one tiny header file. Wouldn't it be nice to be able to 
 
 Makefiles allow you to do precisely this. With only minimal knowledge of makefiles you can automagically recompile your program with the `make` command.
 
-在短期内，我们还不需要自己为一个大型的工程写 Makefile，而在我们 labs 中，我们会为大家准备好 Makefile 大家需要了解 Makefile 的大致结构和使用方法。这里我们给出一个[链接](http://matt.might.net/articles/intro-to-make/)。如果你对于大型工程的维护没有概念，这没有关系，但是我们需要能够开始使用下面的这些命令：
+在短期内，我们还不需要自己为一个大型的工程写 Makefile，而在我们 labs 中，我们会为大家准备好 Makefile 大家需要了解 Makefile 的大致结构和使用方法。这里我们给出一个[链接](http://matt.might.net/articles/intro-to-make/)（这个链接也是本次阅读材料的内容哦，为了不要造轮子，助教就不翻译了）。如果你对于大型工程的维护没有概念，这没有关系，但是我们需要能够开始使用下面的这些命令：
 
 ```bash
 make
@@ -131,7 +131,7 @@ make run
 
 ## 3. Reference
 
-[1] CSAPP, 3ed
+[1] CSAPP, 3e
 
 [2] Washington Univ, A Quick Introduction to Makefiles [link](https://courses.cs.washington.edu/courses/cse451/99wi/Section/makeintro.html) 
 

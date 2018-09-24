@@ -54,7 +54,7 @@ tar xvf datalab-handout.tar
 tar cvf <学号.tar> <directory_name>
 ```
 
-#### Deadline: 10月8日 23:59
+#### Deadline: 10月9日 8:00am
 
 #### 迟交惩罚: 每迟交一天得分减少20%，五天之后得分为0
 

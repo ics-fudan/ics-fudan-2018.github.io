@@ -22,6 +22,8 @@ Lab **1** released.
 
 **Lab1: Data Lab** [introduction](./labs/datalab.pdf) [handout](./labs/datalab-handout.tar)
 
+**Lab2: Binary Bomb** [introduction](./labs/Lab2.pdf) [gdbnotes](./labs/gdbnotes-ia32.pdf) [handout](./labs/bomb.tar)
+
 ---
 
 ## Materials

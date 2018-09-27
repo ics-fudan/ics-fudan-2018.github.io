@@ -12,9 +12,9 @@ We highly recommend you to read these materials online, because we will make som
 
 ## News
 
-Week **2**'s material released.
+Week **3**'s material released.
 
-Lab **1** released.
+Lab **2** released.
 
 ---
 

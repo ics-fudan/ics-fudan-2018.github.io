@@ -12,7 +12,7 @@ We highly recommend you to read these materials online, because we will make som
 
 ## News
 
-Week **3**'s material released.
+Week **6**'s material released.
 
 Lab **2** released.
 
@@ -40,10 +40,22 @@ Lab **2** released.
 - A brief Introduction to GCC and Makefile [link](./week2/gcc_and_makefile.html) [pdf](./week2/gcc_and_makefile.pdf) 
 - 一个中文版的 Linux 基本命令介绍 [link](https://objectkuan.gitbooks.io/ucore-docs/lab0/lab0_2_2_3_install.html)   来自大三操作系统课程材料
 
-### Week 3: GDB and Git
+### Week 3: Lectures
+
+### Week 4: GDB and Git
 
 - 廖雪峰的Git教程 [link](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) (只需了解 `Git简介` 和 `时光机穿梭`)
 - CSAPP, 3ed: 3.11 Life in the Real World: Using the gdb Debugger
+
+### Week 5: National Day
+
+### Week 6: Python
+
+We'll give a short introduction course on python, so please bring your laptops.
+
+- A brief intro from [cs231n](http://cs231n.github.io/python-numpy-tutorial/#python), only part one: `python` is needed.
+- You can also find a intro in Chinese from [菜鸟教程](http://www.runoob.com/python3/python3-tutorial.html)
+- We DO NOT recommand any printed books, because most of them are outdated.
 
 ---
 

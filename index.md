@@ -53,6 +53,7 @@ Lab **2** released.
 
 We'll give a short introduction course on python, so please bring your laptops.
 
+- Lecture [notes](./week6/python.html) from Cai, Yan Lu
 - A brief intro from [cs231n](http://cs231n.github.io/python-numpy-tutorial/#python), only part one: `python` is needed.
 - You can also find a intro in Chinese from [菜鸟教程](http://www.runoob.com/python3/python3-tutorial.html)
 - We DO NOT recommand any printed books, because most of them are outdated.

@@ -12,9 +12,9 @@ We highly recommend you to read these materials online, because we will make som
 
 ## News
 
-Week **6**'s material released.
+Lab **3** released.
 
-Lab **2** released.
+Week **6**'s instruction released.
 
 ---
 
@@ -22,11 +22,13 @@ Lab **2** released.
 
 **Lab1: Data Lab** [introduction](./labs/datalab.pdf) [handout](./labs/datalab-handout.tar)
 
-**Lab2: Binary Bomb** [introduction](./labs/Lab2.pdf) [gdbnotes](./labs/gdbnotes-ia32.pdf) [handout](./labs/bomb.tar)
+**Lab2: Binary Bomb** [introduction](./labs/Lab2.pdf) [gdbnotes](./labs/gdbnotes-ia32.pdf) [handout](./labs/bomb.tar) 
+
+**Lab3: Printf Lab** [handout](./labs/printf.tar) (This lab is created by TA: Cai, Yan Lu, while readme of this lab is still on the way)
 
 ---
 
-## Materials
+##  Materials
 
 ### Week 1: Introduction to Linux and Some Basic Tools
 
@@ -40,23 +42,32 @@ Lab **2** released.
 - A brief Introduction to GCC and Makefile [link](./week2/gcc_and_makefile.html) [pdf](./week2/gcc_and_makefile.pdf) 
 - 一个中文版的 Linux 基本命令介绍 [link](https://objectkuan.gitbooks.io/ucore-docs/lab0/lab0_2_2_3_install.html)   来自大三操作系统课程材料
 
-### Week 3: Lectures
-
-### Week 4: GDB and Git
+### Week 3: GDB and Git
 
 - 廖雪峰的Git教程 [link](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) (只需了解 `Git简介` 和 `时光机穿梭`)
 - CSAPP, 3ed: 3.11 Life in the Real World: Using the gdb Debugger
 
-### Week 5: National Day
+### Week 4: National Day
 
-### Week 6: Python
+### Week 5: Python
 
 We'll give a short introduction course on python, so please bring your laptops.
 
-- Lecture [notes](./week6/python.html) from Cai, Yan Lu
+- Lecture [notes](./week5/python.html) from Cai, Yan Lu
 - A brief intro from [cs231n](http://cs231n.github.io/python-numpy-tutorial/#python), only part one: `python` is needed.
 - You can also find a intro in Chinese from [菜鸟教程](http://www.runoob.com/python3/python3-tutorial.html)
 - We DO NOT recommand any printed books, because most of them are outdated.
+
+### Week 6: 
+
+From this week, we assume that all of you are getting familiar with Linux, and how to use Google/Baidu to obtain what you want, so we'll not post on any regular instruction here any more, while we still highly recommand you to find more exciting aspects of Linux and gradually mastering it! Have fun!
+
+However, I still want to list something basic and vital here, which you are supposed to know about Linux:
+
+- Linux 文件与目录的权限
+- 常见的打包命令
+- 管道（`|`）与输入输出重定向（`<`, `>`, `>>`）
+- 基本的 shell 常识
 
 ---
 

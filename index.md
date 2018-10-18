@@ -24,7 +24,7 @@ Week **6**'s instruction released.
 
 **Lab2: Binary Bomb** [introduction](./labs/Lab2.pdf) [gdbnotes](./labs/gdbnotes-ia32.pdf) [handout](./labs/bomb.tar) 
 
-**Lab3: Printf Lab** [introduction](./labs/lab3.pptx) [handout](./labs/printf.tar) 
+**Lab3: Printf Lab** [introduction](./labs/lab3.pdf) [handout](./labs/printf.tar) 
 
 ---
 

@@ -24,7 +24,7 @@ Week **6**'s instruction released.
 
 **Lab2: Binary Bomb** [introduction](./labs/Lab2.pdf) [gdbnotes](./labs/gdbnotes-ia32.pdf) [handout](./labs/bomb.tar) 
 
-**Lab3: Printf Lab** [handout](./labs/printf.tar) (This lab is created by TA: Cai, Yan Lu, while readme of this lab is still on the way)
+**Lab3: Printf Lab** [introduction](./labs/lab3.pptx) [handout](./labs/printf.tar) 
 
 ---
 

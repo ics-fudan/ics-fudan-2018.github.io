@@ -26,7 +26,7 @@ Week **6**'s instruction released.
 
 **Lab3: Printf Lab** [introduction](./labs/lab3.pdf) [handout](./labs/printf.tar) 
 
-**Project1: Y86-Emulator** [html](./labs/ICS(Fall2018)Project-1.html) [pdf](./labs/ICS(Fall2018)Project-1.pdf)
+**Project1: Y86-Emulator** [html](./labs/ICS(Fall2018)Project.html) [pdf](./labs/ICS(Fall2018)Project.pdf)
 
 ---
 

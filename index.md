@@ -12,9 +12,7 @@ We highly recommend you to read these materials online, because we will make som
 
 ## News
 
-Lab **3** released.
-
-Week **6**'s instruction released.
+Project released.
 
 ---
 
@@ -70,6 +68,14 @@ However, I still want to list something basic and vital here, which you are supp
 - 常见的打包命令
 - 管道（`|`）与输入输出重定向（`<`, `>`, `>>`）
 - 基本的 shell 常识
+
+---
+
+## FAQs
+
+怎样重新提交作业
+
+- 因为大家在 ftp 上没有写权限，因此如果需要重新提交，请命名为 `学号-2.tar` 或者 `学号-3.tar`，以此类推
 
 ---
 

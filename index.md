@@ -12,7 +12,7 @@ We highly recommend you to read these materials online, because we will make som
 
 ## News
 
-Project released.
+lab4 released.
 
 ---
 
@@ -23,6 +23,8 @@ Project released.
 **Lab2: Binary Bomb** [introduction](./labs/Lab2.pdf) [gdbnotes](./labs/gdbnotes-ia32.pdf) [handout](./labs/bomb.tar) 
 
 **Lab3: Printf Lab** [introduction](./labs/lab3.pdf) [handout](./labs/printf.tar) 
+
+**Lab4: Shell Lab** [handout](./labs/shlab.rar)
 
 **Project1: Y86-Emulator** [html](./labs/ICS(Fall2018)Project.html) [pdf](./labs/ICS(Fall2018)Project.pdf)
 

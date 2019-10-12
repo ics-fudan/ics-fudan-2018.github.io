@@ -18,7 +18,7 @@
 
 ## 虚拟系统的安装
 
-我们从[清华大学开源镜像站](https://mirrors.tuna.tsinghua.edu.cn)下载需要的系统（以后你也许会多次用到这个网站；在校园网环境下，该网站的下载速度很快）。这里我们推荐 Ubuntu 64bit，在[页面](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/14.04.5/)选择 `ubuntu-14.04.5-desktop-amd64.iso`。
+我们从[清华大学开源镜像站](https://mirrors.tuna.tsinghua.edu.cn)下载需要的系统（以后你也许会多次用到这个网站；在校园网环境下，该网站的下载速度很快）。这里我们推荐 Ubuntu 64bit，在[页面](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/14.04.5/)选择 `ubuntu-14.04.5-desktop-amd64.iso`（更正：推荐使用 ubuntu 18）。
 
 下载完成后，请大家自行百度，进行虚拟机的安装。如果遇到问题，请及时联系助教。
 
